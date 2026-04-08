@@ -1,0 +1,9 @@
+Role-Based Routes (Admin / User)
+
+Concept (Interview Level)
+Backend validates JWT + role
+Frontend only controls UI (NOT security)
+Authorization happens on server
+
+
+
